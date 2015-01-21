@@ -1,7 +1,7 @@
 {
   "name": "normalize-mongodb-id",
   "version": "1.0.0",
-  "description": "foo",
+  "description": "replace within a document the field `_id` by the `id`",
   "main": "index.js",
   "scripts": {
     "test": "istanbul cover tape test.js",
