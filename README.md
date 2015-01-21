@@ -2,6 +2,8 @@
 
 replace within a document the field `_id` by the `id`
 
+[![Build Status](https://travis-ci.org/joaquimserafim/normalize-mongodb-id.png?branch=master)](https://travis-ci.org/joaquimserafim/normalize-mongodb-id)
+
 ###Example
 
     var normalizeId = require('normalize-mongodb-id');
