@@ -2,7 +2,7 @@
 
 replace within a document the field `_id` by the `id`
 
-[![Build Status](https://travis-ci.org/joaquimserafim/normalize-mongodb-id.png?branch=master)](https://travis-ci.org/joaquimserafim/normalize-mongodb-id)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square)](https://travis-ci.org/joaquimserafim/normalize-mongodb-id)![Code Coverage 100%](https://img.shields.io/badge/code%20coverage-100%25-green.svg?style=flat-square)[![ISC License](https://img.shields.io/badge/license-ISC-blue.svg?style=flat-square)](https://github.com/joaquimserafim/normalize-mongodb-id/blob/master/LICENSE)[![npm - v1.0.0](https://img.shields.io/badge/npm-v1.0.0-blue.svg?style=flat-square)](https://www.npmjs.com/package/normalize-mongodb-id)
 
 ###Example
 
