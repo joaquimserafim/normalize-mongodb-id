@@ -45,3 +45,15 @@ to open the code coverage report
 ``` js
 npm run open-coverage
 ```
+
+<svg xmlns="http://www.w3.org/2000/svg" width="137" height="20" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <a xlink:href="http://google.com" target="_blank">
+    <path fill="#555" d="M0 0h137v20H0z"/>
+    <path fill="#97CA00" d="M94 0h43v20H94zM94 0h4v20h-4z"/>
+    <path fill-opacity=".1" d="M0 0h137v20H0z"/>
+    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
+        <text x="48" y="14">code coverage</text>
+        <text x="114.5" y="14">100%</text>
+    </g>
+  </a>
+</svg>
