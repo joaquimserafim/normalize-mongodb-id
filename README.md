@@ -1,10 +1,10 @@
-#normalize-mongodb-id
+# normalize-mongodb-id
 
 replace within a document the field `_id` by the `id`
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square)](https://travis-ci.org/joaquimserafim/normalize-mongodb-id)![Code Coverage 100%](https://img.shields.io/badge/code%20coverage-100%25-green.svg?style=flat-square)[![ISC License](https://img.shields.io/badge/license-ISC-blue.svg?style=flat-square)](https://github.com/joaquimserafim/normalize-mongodb-id/blob/master/LICENSE)[![npm - v1.1.0](https://img.shields.io/badge/npm-v1.1.0-blue.svg?style=flat-square)](https://www.npmjs.com/package/normalize-mongodb-id)
 
-###Example
+## Example
 
     var normalizeId = require('normalize-mongodb-id');
 
@@ -17,7 +17,7 @@ replace within a document the field `_id` by the `id`
     console.log(normalizeId(doc));// now the doc have the id
 
 
-### Development
+## Development
 
 **this projet has been set up with a precommit that forces you to follow a code style, no jshint issues and 100% of code coverage before commit**
 
